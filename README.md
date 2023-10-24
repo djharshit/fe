@@ -16,4 +16,4 @@ This is a simple HTML application for submitting form data to a backend API usin
 This project is open-source and under the MIT License.
 
 ## Contact
-For questions or assistance, contact [Your Name](mailto:djharshit@duck.com).
+For questions or assistance, contact [Harshit](mailto:djharshit@duck.com).
